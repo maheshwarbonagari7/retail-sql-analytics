@@ -1,0 +1,86 @@
+product_id,product_name,category,unit_price,unit_cost
+1000,Home Item 1000,Home & Kitchen,31.83,20.13
+1001,Home Item 1001,Home & Kitchen,48.84,28.89
+1002,Home Item 1002,Home & Kitchen,21.43,11.57
+1003,Home Item 1003,Home & Kitchen,16.76,10.43
+1004,Home Item 1004,Home & Kitchen,42.61,25.74
+1005,Home Item 1005,Home & Kitchen,14.98,9.5
+1006,Home Item 1006,Home & Kitchen,53.62,29.31
+1007,Home Item 1007,Home & Kitchen,22.65,12.31
+1008,Home Item 1008,Home & Kitchen,28.48,16.6
+1009,Home Item 1009,Home & Kitchen,34.56,19.21
+1010,Home Item 1010,Home & Kitchen,43.12,23.21
+1011,Home Item 1011,Home & Kitchen,27.91,15.76
+1012,Home Item 1012,Home & Kitchen,35.71,21.89
+1013,Electronics Item 1013,Electronics,79.75,62.38
+1014,Electronics Item 1014,Electronics,143.17,101.54
+1015,Electronics Item 1015,Electronics,145.62,106.1
+1016,Electronics Item 1016,Electronics,58.01,49.31
+1017,Electronics Item 1017,Electronics,203.45,168.48
+1018,Electronics Item 1018,Electronics,96.7,69.36
+1019,Electronics Item 1019,Electronics,158.0,121.76
+1020,Electronics Item 1020,Electronics,67.21,52.37
+1021,Electronics Item 1021,Electronics,53.05,44.77
+1022,Electronics Item 1022,Electronics,89.29,71.91
+1023,Electronics Item 1023,Electronics,97.84,76.62
+1024,Electronics Item 1024,Electronics,135.79,99.24
+1025,Clothing Item 1025,Clothing,68.75,32.64
+1026,Clothing Item 1026,Clothing,67.11,32.58
+1027,Clothing Item 1027,Clothing,48.53,23.68
+1028,Clothing Item 1028,Clothing,20.81,8.8
+1029,Clothing Item 1029,Clothing,18.46,8.02
+1030,Clothing Item 1030,Clothing,37.14,15.95
+1031,Clothing Item 1031,Clothing,61.08,26.7
+1032,Clothing Item 1032,Clothing,31.28,14.2
+1033,Clothing Item 1033,Clothing,23.67,11.3
+1034,Clothing Item 1034,Clothing,20.06,9.91
+1035,Clothing Item 1035,Clothing,58.01,24.53
+1036,Clothing Item 1036,Clothing,16.3,7.8
+1037,Clothing Item 1037,Clothing,54.45,25.62
+1038,Clothing Item 1038,Clothing,57.96,23.86
+1039,Clothing Item 1039,Clothing,35.5,14.75
+1040,Clothing Item 1040,Clothing,62.95,29.03
+1041,Health Item 1041,Health & Beauty,19.13,8.73
+1042,Health Item 1042,Health & Beauty,18.52,8.94
+1043,Health Item 1043,Health & Beauty,31.33,16.1
+1044,Health Item 1044,Health & Beauty,36.15,17.97
+1045,Health Item 1045,Health & Beauty,12.66,6.6
+1046,Health Item 1046,Health & Beauty,32.28,16.34
+1047,Health Item 1047,Health & Beauty,32.59,16.27
+1048,Health Item 1048,Health & Beauty,25.0,12.32
+1049,Health Item 1049,Health & Beauty,9.78,4.51
+1050,Health Item 1050,Health & Beauty,9.96,5.12
+1051,Health Item 1051,Health & Beauty,18.62,9.33
+1052,Health Item 1052,Health & Beauty,36.77,17.46
+1053,Health Item 1053,Health & Beauty,21.56,11.33
+1054,Health Item 1054,Health & Beauty,16.0,7.32
+1055,Health Item 1055,Health & Beauty,17.87,8.33
+1056,Sports Item 1056,Sports & Outdoor,93.62,61.62
+1057,Sports Item 1057,Sports & Outdoor,70.96,47.26
+1058,Sports Item 1058,Sports & Outdoor,83.98,48.8
+1059,Sports Item 1059,Sports & Outdoor,90.78,56.73
+1060,Sports Item 1060,Sports & Outdoor,84.27,56.39
+1061,Sports Item 1061,Sports & Outdoor,46.83,26.77
+1062,Sports Item 1062,Sports & Outdoor,39.94,24.4
+1063,Sports Item 1063,Sports & Outdoor,85.08,56.56
+1064,Sports Item 1064,Sports & Outdoor,23.03,14.31
+1065,Sports Item 1065,Sports & Outdoor,54.43,31.87
+1066,Sports Item 1066,Sports & Outdoor,31.67,19.0
+1067,Sports Item 1067,Sports & Outdoor,94.63,56.6
+1068,Sports Item 1068,Sports & Outdoor,62.19,40.12
+1069,Sports Item 1069,Sports & Outdoor,50.32,34.14
+1070,Sports Item 1070,Sports & Outdoor,96.13,56.64
+1071,Books Item 1071,Books & Media,16.14,10.85
+1072,Books Item 1072,Books & Media,11.81,7.5
+1073,Books Item 1073,Books & Media,18.44,12.91
+1074,Books Item 1074,Books & Media,7.05,4.72
+1075,Books Item 1075,Books & Media,24.53,16.28
+1076,Books Item 1076,Books & Media,8.96,6.26
+1077,Books Item 1077,Books & Media,26.11,17.33
+1078,Books Item 1078,Books & Media,19.71,14.52
+1079,Books Item 1079,Books & Media,10.85,7.94
+1080,Books Item 1080,Books & Media,13.5,9.7
+1081,Books Item 1081,Books & Media,18.92,13.34
+1082,Books Item 1082,Books & Media,7.84,5.86
+1083,Books Item 1083,Books & Media,12.54,8.23
+1084,Books Item 1084,Books & Media,6.83,4.87
