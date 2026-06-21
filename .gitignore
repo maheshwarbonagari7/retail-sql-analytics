@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Note: retail.db IS committed on purpose so reviewers can query immediately.
+# To exclude it instead, uncomment the next line:
+# retail.db
